@@ -32,26 +32,30 @@ The project focuses on applying basic analytics workflows rather than building a
 
 ---
 
-## 🔍 Work Performed  
+## ⚙️ Methodology  
 
-### Data Preparation  
-- Cleaned and structured the dataset  
-- Handled missing or inconsistent values  
+### 🔹 Data Preprocessing  
+- Handled missing values  
+- Cleaned and formatted dataset  
+- Standardized features for clustering  
 
-### Exploratory Analysis  
-- Analyzed distributions and relationships  
-- Identified trends in key variables  
+### 🔹 Exploratory Data Analysis  
+- Analyzed distributions of key variables  
+- Identified correlations between features  
 
-### Visualization  
-- Created plots to represent insights clearly  
-- Used graphs to support findings  
+### 🔹 Clustering Technique  
+- Applied **K-Means Clustering**  
+- Determined optimal number of clusters using **Elbow Method**  
+- Validated clusters using **Silhouette Score**  
 
 ---
+## 📊 Results & Insights  
 
-## 📈 Key Outcomes  
-- Gained hands-on experience with data analysis workflow  
-- Understood how to extract insights from structured data  
-- Improved skills in visualization and interpretation  
+- Successfully segmented patients into **3 distinct clusters**  
+- Identified variations in patient characteristics across clusters  
+- Observed clear separation in feature distributions  
+- Generated visualizations to interpret clustering results  
+
 
 ---
 

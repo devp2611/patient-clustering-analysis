@@ -15,17 +15,18 @@ The project focuses on applying basic analytics workflows rather than building a
 
 ---
 
-##Project-2-Setup/
-│
-├── 📁 notebooks/
-│ └── main_analysis.ipynb # Primary notebook containing full analysis workflow
-│
-├── 📁 outputs/
-│ ├── plot_1.png # Visualization output (example)
-│ ├── plot_2.png # Additional charts/graphs
-│ └── results_summary.txt # Summary of insights/results (if applicable)
-│
-└── 📄 README.md # Project documentation
+## 📂 Project Structure  
+
+- 📁 Project-2-Setup/
+  - 📁 notebooks/  
+    - main_analysis.ipynb → Primary notebook containing full analysis workflow  
+
+  - 📁 outputs/  
+    - plot_1.png → Visualization output (example)  
+    - plot_2.png → Additional charts/graphs  
+    - results_summary.txt → Summary of insights/results  
+
+  - 📄 README.md → Project documentation  
 
 ---
 

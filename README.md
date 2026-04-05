@@ -1,6 +1,6 @@
-PATIENT CLUSTERING ANALYSIS
+# Patient Clustering Analysis
 
-## 📌 Overview  
+## 📌 Overview
 This project was developed as part of a foundational data analytics course. The objective was to understand and implement core data analysis concepts using a structured dataset provided during the coursework.
 
 The project focuses on applying basic analytics workflows rather than building a system from scratch. It demonstrates practical understanding of data handling, analysis, and visualization.

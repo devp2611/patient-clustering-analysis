@@ -1,5 +1,3 @@
-# 📊 Project 2 – Data Analytics Setup
-
 ## 📌 Overview  
 This project was developed as part of a foundational data analytics course. The objective was to understand and implement core data analysis concepts using a structured dataset provided during the coursework.
 
@@ -17,12 +15,17 @@ The project focuses on applying basic analytics workflows rather than building a
 
 ---
 
-## 📂 Project Structure  
-Project-2-Setup/
+##Project-2-Setup/
 │
-├── notebooks/ # Main analysis notebook(s)
-├── outputs/ # Generated graphs and results
-└── README.md # Project documentation
+├── 📁 notebooks/
+│ └── main_analysis.ipynb # Primary notebook containing full analysis workflow
+│
+├── 📁 outputs/
+│ ├── plot_1.png # Visualization output (example)
+│ ├── plot_2.png # Additional charts/graphs
+│ └── results_summary.txt # Summary of insights/results (if applicable)
+│
+└── 📄 README.md # Project documentation
 
 ---
 
